@@ -44,6 +44,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
     loadingScreen.style.display = 'none';
 
     // Redirect to another website after the loading screen is hidden
-    window.location.href = 'request.php';
+    window.location.href = 'help.html';
   }, 2000); // 2 seconds loading time
 });
